@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Raúl
 
-<!--
-**RaulReyesB/RaulReyesB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Full Stack
 
-Here are some ideas to get you started:
+Apasionado por la tecnología y el desarrollo de software. Me especializo en crear soluciones innovadoras utilizando las siguientes tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Habilidades técnicas:
+- **Lenguajes de programación:** JavaScript, Java
+- **Frameworks y librerías:** React, React Native, Node.js, Express.js
+- **Bases de datos:** MySQL, MongoDB
+- **Herramientas:** Git, Docker, Android Studio
+
+### 🌱 Actualmente aprendiendo:
+- **C# y C++** para explorar nuevas áreas como el desarrollo de videojuegos y aplicaciones de escritorio.
+
+### 📫 ¿Cómo contactarme?
+- **Correo electrónico:** raulreyesbatalla@outlook.es
+
+¡Siempre estoy buscando nuevos desafíos y oportunidades para aprender algo nuevo! 😄
+---
+⭐️ ¡Gracias por visitar mi perfil! Si te gusta lo que hago, no dudes en seguirme o contribuir a mis proyectos.
